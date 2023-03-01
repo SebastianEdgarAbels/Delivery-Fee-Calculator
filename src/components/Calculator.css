@@ -1,0 +1,12 @@
+label {
+  font-weight: 600;
+}
+
+input {
+  border-style: none;
+  border-radius: 5px;
+}
+
+button {
+  border-radius: 5px;
+}
